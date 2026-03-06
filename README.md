@@ -1,4 +1,4 @@
-🧹 The Compliance Janitor: Automated S3 Governance
+## The Compliance Janitor: Automated S3 Governance
 Serverless Cloud Governance project focused on enforcing resource tagging policies across AWS environments. By leveraging AWS Lambda and Boto3, this system automatically audits S3 buckets for compliance tags, providing real-time visibility into "Shadow IT" and ensuring resources follow organizational standards. ✨
 
 📸 Project Workflow
